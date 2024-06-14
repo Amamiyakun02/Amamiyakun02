@@ -19,6 +19,10 @@ I'm a Junior Data Analyst and Web Scraper with a passion for open source project
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
 ### Frameworks and Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -27,9 +31,9 @@ I'm a Junior Data Analyst and Web Scraper with a passion for open source project
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-0093D0?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amamiyakun02&show_icons=true)
 <!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amamiyakun02&show_icons=true)
+
 **Amamiyakun02/Amamiyakun02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
