@@ -6,7 +6,7 @@ I'm a Junior Data Analyst and Web Scraper with a passion for open source project
 ## About Me
 
 - 🌱 I’m currently learning GeoSpatial Data using Python & PostGIS
-- 👯 I’m looking to collaborate on AIMER.AI OPEN SOURCE PROJECT
+- 👯 I’m looking to collaborate on AIMER.AI Project
 - 💬 Ask me about Web Scraping and Data Analysis
 - 📫 How to reach me: amamiyakun02@gmail.com
 - ⚡ Fun fact: I love solving complex puzzles and challenges
