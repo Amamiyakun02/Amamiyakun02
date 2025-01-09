@@ -23,7 +23,6 @@ I'm a Junior Data Analyst and Web Scraper with a passion for open source project
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### Frameworks and Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-5C5C5C?style=for-the-badge&logo=scrapy&logoColor=white)
